@@ -1,6 +1,6 @@
 # Analyzing Environmental Spills in Ontario Project
 
-*In progress*
+This project is currently **in progress**.
 
 In this project, I used a dataset that contains information related to environmental spills in Ontario between 2003 and 2020 to answer the following research question:
 
